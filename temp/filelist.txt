@@ -1,0 +1,8 @@
+file '/data/data/com.termux/files/home/sho3/temp/frame0.mp4'
+duration 0.7
+file '/data/data/com.termux/files/home/sho3/temp/frame1.mp4'
+duration 0.7
+file '/data/data/com.termux/files/home/sho3/temp/frame2.mp4'
+duration 0.7
+file '/data/data/com.termux/files/home/sho3/temp/frame2.mp4'
+duration 2

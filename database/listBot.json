@@ -1,0 +1,21 @@
+{
+    "6281234567890@s.whatsapp.net": {
+        "paket": [
+            {
+                "name": "Paket Basic",
+                "price": "25000",
+                "description": "✅ Update hingga V5\n💡 Biaya tambahan 10K/update."
+            },
+            {
+                "name": "Paket Premium",
+                "price": "45000",
+                "description": "✅ Update hingga V6 (GRATIS)\n💡 Full Support & Prioritas bantuan teknis."
+            },
+            {
+                "name": "Paket Custom",
+                "price": "65000",
+                "description": "✅ FREE UPDATE dari V3 hingga V10!\n💡 Bisa dijual ulang & Free APIKey bulanan."
+            }
+        ]
+    }
+}
