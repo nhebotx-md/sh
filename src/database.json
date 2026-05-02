@@ -2470,6 +2470,11 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 20
+    },
+    "102796401598507@lid": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
     }
   },
   "database": {},
@@ -3625,6 +3630,36 @@
       "antispam": false,
       "antilink": false,
       "antilinkgc": false
+    },
+    "120363425233548297@g.us": {
+      "isBanned": false,
+      "antispam": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "30722505109681@lid": {
+      "isBanned": false,
+      "antispam": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "718584497008509@bot": {
+      "isBanned": false,
+      "antispam": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "6282142783884:59@s.whatsapp.net": {
+      "isBanned": false,
+      "antispam": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "102796401598507@lid": {
+      "isBanned": false,
+      "antispam": false,
+      "antilink": false,
+      "antilinkgc": false
     }
   },
   "game": {},
@@ -3636,5 +3671,9 @@
       "autoread": false
     }
   },
-  "message": {}
+  "message": {},
+  "owner": [],
+  "premium": [],
+  "partner": [],
+  "banned": []
 }

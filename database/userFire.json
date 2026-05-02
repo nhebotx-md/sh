@@ -15,10 +15,26 @@
     "role": "Recruit",
     "limit": 100,
     "registrationSeries": "pL28mAM1pc",
-    "level": 0,
-    "exp": 7,
-    "expTarget": 10,
-    "commandCount": 7,
+    "level": 1,
+    "exp": 13,
+    "expTarget": 30,
+    "commandCount": 13,
     "balance": 0
+  },
+  "102796401598507@lid": {
+    "register": false,
+    "level": 0,
+    "exp": 2,
+    "expTarget": 10,
+    "commandCount": 2,
+    "balance": 2
+  },
+  "6282142783884@s.whatsapp.net": {
+    "register": false,
+    "level": 0,
+    "exp": 3,
+    "expTarget": 10,
+    "commandCount": 3,
+    "balance": 2
   }
 }

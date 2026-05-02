@@ -16,6 +16,8 @@ Jika Berminat Memiliki Script No Enc, Silahkan Bergabung dengan Group WhatsApp d
 Channel WhatsApp: https://whatsapp.com/channel/0029Vb0v3F71yT264EejzJ3e
 Group WhatsApp: https://chat.whatsapp.com/IvvRbhbWE2RCwknzQYBAPt
 ───────────────────────
+
+
 RECODE ? RECODE AJA BANG
 (😜SEBAGIAN GABISA DI RECODE DI SINI {MAIN.JS})
 ───────────────────────
@@ -27,9 +29,10 @@ YT : @sycze
 const chalk = require("chalk");
 const fs = require("fs");
 
+
 //━━━━━━━━━━━━━━━[ PENGATURAN SISTEM ]
 global.settings = {
-    welcomeEnabled: true, // Jika true, bot akan mengirim pesan selamat datang
+welcomeEnabled: true, // Jika true, bot akan mengirim pesan selamat datang
 };
 //━━━━━━━━━━━━━━━[ INFORMASI BOT ]
 global.namastore = "Ubah namemu";
@@ -46,7 +49,7 @@ global.namaDeveloper = "TT:ohhinitngxy "; //
 global.packname = "𝙎𝙝𝙤𝙉𝙝𝙚 🅥➎";
 global.namach = "🚀 ShoNhe Botz"; // Nama Channel WhatsApp kalo ada
 global.descown = "𝙎𝙝𝙤𝙉𝙝𝙚 🅥➎ ©𝙱𝚢 𝙽𝙷𝙴𝙱𝚘𝚝𝚡 & 𝚂𝚢𝚌𝚑𝚢𝚢"; //Terserah mau ubah atau ngga
-global.author = "Sticker By:\n@𝙽𝙷𝙴𝙱𝚘𝚝𝚡 & 𝚂𝚢𝚌𝚑𝚢𝚢"; // WM STICKER 
+global.author = "Sticker By:\n@𝙽𝙷𝙴𝙱𝚘𝚝𝚡 & 𝚂𝚢𝚌𝚑𝚢𝚢"; // WM STICKER
 global.version = "5.0.1"; // Jangan Diubah Daripada EROR
 global.sessionName = "session"; // Jangan Diubah Daripada EROR
 global.tempatDB = "database.json"; // Jangan Diubah Daripada EROR
@@ -111,23 +114,23 @@ global.ibbKey = "e73afc3e94477852c77e41a41572fa8d";
 
 //━━━━━━━━━━━━━━━[ API KEYS & ENDPOINTS ]
 global.APIs = {
-    alfa: "https://api.zeeoneofc.my.id",
-    hitori: "https://my.hitori.pw/api",
-    lolhuman: "https://api.lolhuman.xyz", // API LoL Human (tanpa tambahan "/api")
+alfa: "https://api.zeeoneofc.my.id",
+hitori: "https://my.hitori.pw/api",
+lolhuman: "https://api.lolhuman.xyz", // API LoL Human (tanpa tambahan "/api")
 };
 
 global.APIKeys = {
-    "https://api.zeeoneofc.my.id": "JKqddGlPzEcod4P",
-    "https://my.hitori.pw/api": "htrkey-HysnOetF",
-    "https://api.lolhuman.xyz": "Nhebotx", // API Key LoL Human
+"https://api.zeeoneofc.my.id": "JKqddGlPzEcod4P",
+"https://my.hitori.pw/api": "htrkey-HysnOetF",
+"https://api.lolhuman.xyz": "Nhebotx", // API Key LoL Human
 };
 
 //━━━━━━━━━━━━━━━[ BATASAN LIMIT ]
 global.limitawal = {
-    premium: "Infinity",
-    free: 20,
+premium: "Infinity",
+free: 20,
 };
-//━━━━━━━━━━━━━━━[ CPANEL ] 
+//━━━━━━━━━━━━━━━[ CPANEL ]
 global.domain = '' // isi domain
 global.apikey = '' // Isi Apikey Plta Lu
 global.capikey = '' // Isi Apikey Pltc Lu
@@ -136,15 +139,15 @@ global.location = '1' // id location
 
 //━━━━━━━━━━━━━━━[ SISTEM NOTIFIKASI & RESPON BOT ]
 global.mess = {
-    admins: "⛔ *[AKSES DITOLAK]* ────\n🚨 *PERINGATAN SISTEM* 🚨\n❌ *Identitas Tidak Terverifikasi!*",
-    owners: "🚫 *[AKSES ILEGAL]* ────\n⚠️ *Hanya pemilik bot yang memiliki akses penuh!*",
-    dones: "✅ *[OPERASI SELESAI]* ────\n💾 *Data berhasil diproses.*",
-    abots: "🤖 *[ERROR SISTEM]* ────\n💢 *Bot tidak memiliki hak akses sebagai admin!*",
-    groups: "📂 *[HANYA UNTUK GRUP]* ────\n🚧 *Perintah ini hanya bisa digunakan di grup.*",
-    privates: "🔒 *[HANYA UNTUK PRIVAT]* ────\n🕵️ *Gunakan perintah ini di private chat!*",
-    waits: "⌛ *[PROSES BERLANGSUNG]* ────\n⚙️ *Mohon tunggu sebentar...*",
-    bands: "⚠️ *[PERINGATAN SISTEM]* ────\n❌ *Entitas Terblokir!*",
-    regis: "⚠️ *[ALARM SISTEM]* ────\n🔍 *Entitas Tak Terdaftar Terdeteksi!*",
+admins: "⛔ [AKSES DITOLAK] ────\n🚨 PERINGATAN SISTEM 🚨\n❌ Identitas Tidak Terverifikasi!",
+owners: "🚫 [AKSES ILEGAL] ────\n⚠️ Hanya pemilik bot yang memiliki akses penuh!",
+dones: "✅ [OPERASI SELESAI] ────\n💾 Data berhasil diproses.",
+abots: "🤖 [ERROR SISTEM] ────\n💢 Bot tidak memiliki hak akses sebagai admin!",
+groups: "📂 [HANYA UNTUK GRUP] ────\n🚧 Perintah ini hanya bisa digunakan di grup.",
+privates: "🔒 [HANYA UNTUK PRIVAT] ────\n🕵️ Gunakan perintah ini di private chat!",
+waits: "⌛ [PROSES BERLANGSUNG] ────\n⚙️ Mohon tunggu sebentar...",
+bands: "⚠️ [PERINGATAN SISTEM] ────\n❌ Entitas Terblokir!",
+regis: "⚠️ [ALARM SISTEM] ────\n🔍 Entitas Tak Terdaftar Terdeteksi!",
 };
 
 //━━━━━━━━━━━━━━━[ SISTEM PEMANTAUAN CONFIG ]
@@ -155,3 +158,5 @@ fs.watchFile(file, () => {
     delete require.cache[file];
     require(file);
 });
+
+

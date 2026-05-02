@@ -1,6 +1,6 @@
 {
-  "menu": 464,
-  "register": 186,
+  "menu": 472,
+  "register": 190,
   "contact2": 4,
   "tqto": 9,
   "about": 12,
@@ -10,10 +10,10 @@
   "script": 45,
   "cekfire": 31,
   "song": 5,
-  "owner": 19,
+  "owner": 20,
   "allmenu": 81,
   "play": 34,
-  "ownermenu": 18,
+  "ownermenu": 19,
   "upchannel": 1,
   "upchannels": 1,
   "upsaluran2": 2,
@@ -27,7 +27,7 @@
   "realown": 6,
   "remindersholat": 1,
   "ytmp3": 37,
-  "contact": 10,
+  "contact": 11,
   "store": 3,
   "addlist": 4,
   "readviewonce": 8,
@@ -82,7 +82,7 @@
   "robot": 1,
   "nightcore": 2,
   "tebakff": 1,
-  "ping": 17,
+  "ping": 18,
   "tts": 1,
   "tovn": 1,
   "menu2": 16,
@@ -141,5 +141,5 @@
   "panel": 11,
   "totalfitur": 1,
   "love": 1,
-  "cekch": 4
+  "cekch": 5
 }
